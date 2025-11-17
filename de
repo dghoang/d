@@ -1,0 +1,274 @@
+# 📝 Comments
+
+---
+
+## 📷 MAS291_-_SU_2025_-_Quiz3_3920.webp
+
+### 👤 PhungLuuHoangLong
+
+c
+
+---
+
+### 👤 PhungLuuHoangLong
+
+c
+
+---
+
+### 👤 toidungfuoverflow
+
+c
+
+---
+
+### 👤 toidungfuoverflow
+
+c
+
+---
+
+### 👤 chaiko
+
+câu 1: chap 7
+
++ n 1 = 16 ; \mu 1 = 84 ; \sigma 1 = 8 n_{1}=16; \mu_{1}=84; \sigma_{1}=8 n 1 ​ = 1 6 ; \mu 1 ​ = 8 4 ; \sigma 1 ​ = 8
+
++ n 2 = 9 ; \mu 2 = 80 ; \sigma 2 = 12 n_{2}=9; \mu_{2}=80; \sigma_{2}=12 n 2 ​ = 9 ; \mu 2 ​ = 8 0 ; \sigma 2 ​ = 1 2
+
++ X 1 \sim N 1 ( 84 ; 8 2 16 ) X 2 \sim N ( 80 ; 1 2 2 9 ) \Rightarrow X 1 − X 2 \sim ( 84 − 80 ; 8 2 16 + 1 2 2 9 ) X 1 − X 2 \sim ( 4 ; 20 ) X_{1} \sim N_{1}(84; \dfrac{8^{2}}{16})\\ X_{2} \sim N(80; \dfrac{12^{2}}{9})\\ \Rightarrow X_{1}-X_{2} \sim (84-80; \dfrac{8^{2}}{16}+\dfrac{12^{2}}{9})\\ X_{1}-X_{2} \sim (4; 20)\\ X 1 ​ \sim N 1 ​ ( 8 4 ; 1 6 8 2 ​ ) X 2 ​ \sim N ( 8 0 ; 9 1 2 2 ​ ) \Rightarrow X 1 ​ − X 2 ​ \sim ( 8 4 − 8 0 ; 1 6 8 2 ​ + 9 1 2 2 ​ ) X 1 ​ − X 2 ​ \sim ( 4 ; 2 0 )
+
+Tính P ( X 1 − X 2 \leq 4 , 5 ) = P ( Z \leq 4 , 5 − 4 20 ) = P ( Z \leq 0 , 11 ) = 0 , 5438 P(X_{1}-X_{2} \le 4,5)\\
+=P(Z \le \dfrac{4,5-4}{\sqrt{20}})\\ =P(Z \le 0,11)=0,5438 P ( X 1 ​ − X 2 ​ \leq 4 , 5 ) = P ( Z \leq 2 0 ​ 4 , 5 − 4 ​ ) = P ( Z \leq 0 , 1 1 ) = 0 , 5 4 3 8
+
+---
+
+### 👤 chaiko
+
+câu 1: chap 7
+
++ n 1 = 16 ; \mu 1 = 84 ; \sigma 1 = 8 n_{1}=16; \mu_{1}=84; \sigma_{1}=8 n 1 ​ = 1 6 ; \mu 1 ​ = 8 4 ; \sigma 1 ​ = 8
+
++ n 2 = 9 ; \mu 2 = 80 ; \sigma 2 = 12 n_{2}=9; \mu_{2}=80; \sigma_{2}=12 n 2 ​ = 9 ; \mu 2 ​ = 8 0 ; \sigma 2 ​ = 1 2
+
++ X 1 \sim N 1 ( 84 ; 8 2 16 ) X 2 \sim N ( 80 ; 1 2 2 9 ) \Rightarrow X 1 − X 2 \sim ( 84 − 80 ; 8 2 16 + 1 2 2 9 ) X 1 − X 2 \sim ( 4 ; 20 ) X_{1} \sim N_{1}(84; \dfrac{8^{2}}{16})\\ X_{2} \sim N(80; \dfrac{12^{2}}{9})\\ \Rightarrow X_{1}-X_{2} \sim (84-80; \dfrac{8^{2}}{16}+\dfrac{12^{2}}{9})\\ X_{1}-X_{2} \sim (4; 20)\\ X 1 ​ \sim N 1 ​ ( 8 4 ; 1 6 8 2 ​ ) X 2 ​ \sim N ( 8 0 ; 9 1 2 2 ​ ) \Rightarrow X 1 ​ − X 2 ​ \sim ( 8 4 − 8 0 ; 1 6 8 2 ​ + 9 1 2 2 ​ ) X 1 ​ − X 2 ​ \sim ( 4 ; 2 0 )
+
+Tính P ( X 1 − X 2 \leq 4 , 5 ) = P ( Z \leq 4 , 5 − 4 20 ) = P ( Z \leq 0 , 11 ) = 0 , 5438 P(X_{1}-X_{2} \le 4,5)\\
+=P(Z \le \dfrac{4,5-4}{\sqrt{20}})\\ =P(Z \le 0,11)=0,5438 P ( X 1 ​ − X 2 ​ \leq 4 , 5 ) = P ( Z \leq 2 0 ​ 4 , 5 − 4 ​ ) = P ( Z \leq 0 , 1 1 ) = 0 , 5 4 3 8
+
+---
+
+### 👤 chaiko
+
+Câu 2:
+hình 2 có 1 chấm tròn tương ứng với 1 outlier
+
+---
+
+### 👤 chaiko
+
+Câu 2:
+hình 2 có 1 chấm tròn tương ứng với 1 outlier
+
+---
+
+### 👤 Hoang Trung Hai
+
+1 c 2 hình 2
+
+---
+
+### 👤 Hoang Trung Hai
+
+1 c 2 hình 2
+
+
+
+## 📷 MAS291_-_SU_2025_-_Quiz3_3920_2.webp
+
+### 👤 chaiko
+
+hình 2 có 1 outlier (vì có 1 chấm tròn)
+
+---
+
+### 👤 chaiko
+
+hình 2 có 1 outlier (vì có 1 chấm tròn)
+
+
+
+## 📷 MAS291_-_SU_2025_-_Quiz3_3920_3.webp
+
+### 👤 PhungLuuHoangLong
+
+a c
+
+---
+
+### 👤 PhungLuuHoangLong
+
+a c
+
+---
+
+### 👤 chaiko
+
+Câu 4.
+
+*Casio 580: Menu 6 1, Nhập dữ liệu, OPTN 3
+
+*kéo xuống để thấy n và med
+
+(i) standard error: \sigma n = 8 , 89 24 = 1 , 81 \dfrac{\sigma}{\sqrt{n}}=\dfrac{8,89}{\sqrt{24}}=1,81 n ​ \sigma ​ = 2 4 ​ 8 , 8 9 ​ = 1 , 8 1
+
+(ii) Standard deviation for the population: \sigma = 8 , 89 \sigma=8,89 \sigma = 8 , 8 9
+
+(iii) Mean: x ˉ = 423 , 33 \bar{x}=423,33 x ˉ = 4 2 3 , 3 3
+
+(iv) Median: med=424
+
+---
+
+### 👤 chaiko
+
+Câu 4.
+
+*Casio 580: Menu 6 1, Nhập dữ liệu, OPTN 3
+
+*kéo xuống để thấy n và med
+
+(i) standard error: \sigma n = 8 , 89 24 = 1 , 81 \dfrac{\sigma}{\sqrt{n}}=\dfrac{8,89}{\sqrt{24}}=1,81 n ​ \sigma ​ = 2 4 ​ 8 , 8 9 ​ = 1 , 8 1
+
+(ii) Standard deviation for the population: \sigma = 8 , 89 \sigma=8,89 \sigma = 8 , 8 9
+
+(iii) Mean: x ˉ = 423 , 33 \bar{x}=423,33 x ˉ = 4 2 3 , 3 3
+
+(iv) Median: med=424
+
+---
+
+### 👤 chaiko
+
+Câu 5.
+
+Standard error: \sigma n = 30 9 = 10 \dfrac{\sigma}{\sqrt{n}}=\dfrac{30}{\sqrt{9}}=10 n ​ \sigma ​ = 9 ​ 3 0 ​ = 1 0
+
+---
+
+### 👤 chaiko
+
+Câu 5.
+
+Standard error: \sigma n = 30 9 = 10 \dfrac{\sigma}{\sqrt{n}}=\dfrac{30}{\sqrt{9}}=10 n ​ \sigma ​ = 9 ​ 3 0 ​ = 1 0
+
+
+
+## 📷 MAS291_-_SU_2025_-_Quiz3_3920_4.webp
+
+### 👤 PhungLuuHoangLong
+
+d d
+
+---
+
+### 👤 PhungLuuHoangLong
+
+d d
+
+---
+
+### 👤 chaiko
+
+Câu 6. chap 7
+
+*Công thức P ( X ˉ &lt; a ) = P ( Z &lt; a − \mu \sigma / n ) P(\bar{X}&lt; a)=P(Z&lt;\dfrac{a-\mu}{ \sigma/ \sqrt{n}}) P ( X ˉ &lt; a ) = P ( Z &lt; \sigma / n ​ a − \mu ​ )
+
+Ta có: P ( X ˉ &lt; 8 ) = P ( Z &lt; 8 − 7 , 3 1 , 8 / 36 ) = P ( Z &lt; 2 , 33 ) = 0 , 99 P(\bar{X}&lt; 8)\\ =P(Z&lt;\dfrac{8-7,3}{ 1,8/ \sqrt{36}})\\=P(Z&lt;2,33)=0,99 P ( X ˉ &lt; 8 ) = P ( Z &lt; 1 , 8 / 3 6 ​ 8 − 7 , 3 ​ ) = P ( Z &lt; 2 , 3 3 ) = 0 , 9 9
+
+*Bấm casio tính P ( Z &lt; a ) P(Z&lt; a) P ( Z &lt; a ) :
+
+-Casio 570:
+
++Cách 1: Mode 3 1 AC shift 1 5 1. Nhập giá trị a
+
++Cách 2: Mode ↓ \downarrow ↓ 3 2. Nhập lower=-9999, upper=giá trị a, \sigma = 1 , \mu = 0 \sigma=1, \mu =0 \sigma = 1 , \mu = 0 cố định
+
+-Casio 580:
+
++Cách 1: Menu 6 1 AC OPTN ↓ \downarrow ↓ 4 1. Nhập giá trị a
+
++Cách 2: Menu 7 2. Nhập lower=-9999, upper= giá trị a, \sigma = 1 , \mu = 0 \sigma=1, \mu =0 \sigma = 1 , \mu = 0 cố định
+
+---
+
+### 👤 chaiko
+
+Câu 6. chap 7
+
+*Công thức P ( X ˉ &lt; a ) = P ( Z &lt; a − \mu \sigma / n ) P(\bar{X}&lt; a)=P(Z&lt;\dfrac{a-\mu}{ \sigma/ \sqrt{n}}) P ( X ˉ &lt; a ) = P ( Z &lt; \sigma / n ​ a − \mu ​ )
+
+Ta có: P ( X ˉ &lt; 8 ) = P ( Z &lt; 8 − 7 , 3 1 , 8 / 36 ) = P ( Z &lt; 2 , 33 ) = 0 , 99 P(\bar{X}&lt; 8)\\ =P(Z&lt;\dfrac{8-7,3}{ 1,8/ \sqrt{36}})\\=P(Z&lt;2,33)=0,99 P ( X ˉ &lt; 8 ) = P ( Z &lt; 1 , 8 / 3 6 ​ 8 − 7 , 3 ​ ) = P ( Z &lt; 2 , 3 3 ) = 0 , 9 9
+
+*Bấm casio tính P ( Z &lt; a ) P(Z&lt; a) P ( Z &lt; a ) :
+
+-Casio 570:
+
++Cách 1: Mode 3 1 AC shift 1 5 1. Nhập giá trị a
+
++Cách 2: Mode ↓ \downarrow ↓ 3 2. Nhập lower=-9999, upper=giá trị a, \sigma = 1 , \mu = 0 \sigma=1, \mu =0 \sigma = 1 , \mu = 0 cố định
+
+-Casio 580:
+
++Cách 1: Menu 6 1 AC OPTN ↓ \downarrow ↓ 4 1. Nhập giá trị a
+
++Cách 2: Menu 7 2. Nhập lower=-9999, upper= giá trị a, \sigma = 1 , \mu = 0 \sigma=1, \mu =0 \sigma = 1 , \mu = 0 cố định
+
+---
+
+### 👤 chaiko
+
+Câu 7.
+Median=7,5
+*Casio 580: Menu 6 1, Nhập dữ liệu, OPTN 3
+*kéo xuống để thấy med
+
+---
+
+### 👤 chaiko
+
+Câu 7.
+Median=7,5
+*Casio 580: Menu 6 1, Nhập dữ liệu, OPTN 3
+*kéo xuống để thấy med
+
+
+
+## 📷 MAS291_-_SU_2025_-_Quiz3_3920_5.webp
+
+### 👤 PhungLuuHoangLong
+
+c
+
+---
+
+### 👤 PhungLuuHoangLong
+
+c
+
+---
+
+### 👤 chaiko
+
+(1) uniform dist
+(2) exponential dist
+(3) normal dist
+
+---
+
+### 👤 chaiko
+
+(1) uniform dist
+(2) exponential dist
+(3) normal dist
+
